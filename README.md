@@ -1,5 +1,3 @@
 # JTC-Glitch-Guide
 JTC discord - discord.gg/Nr3qHYgSzQ
-```
-e
-```
+(A lot more to be added here)
